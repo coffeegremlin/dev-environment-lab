@@ -1,4 +1,4 @@
-<img src="https://i.imgur.com/s5cll7Z.png">
+<img src="https://i.imgur.com/s5cll7Z.png?1">
 #dev-environment-lab
 
 ## OS
